@@ -27,6 +27,24 @@
 		
 		package strategy.f 策略与简单工厂结合
 
+第7章 代理模式
+
+		package proxy.a 没有代理的代码
+		
+> ![](http://hi.csdn.net/attachment/201006/23/0_12772856718nwK.gif)
+		
+		package proxy.b 只有代理的代码
+		
+> ![](http://hi.csdn.net/attachment/201006/23/0_12772857228Tfi.gif)				
+		package proxy.c 符合实际的代码
+		
+> ![](http://hi.csdn.net/attachment/201006/23/0_1277285813N1Bb.gif)			
+		package proxy.d 代理模式
+		
+> ![](http://hi.csdn.net/attachment/201006/23/0_1277285991v9W9.gif)		
+		
+
+
 第14章 观察者模式
 
         package observer.coupled 双向耦合的代码
