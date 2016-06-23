@@ -43,7 +43,20 @@
 		
 > ![](http://hi.csdn.net/attachment/201006/23/0_1277285991v9W9.gif)		
 		
+第8章 工厂方法模式
 
+		package factory.a 简单工厂模式实现，主要的类见 package simpleFactory.c
+>![](http://hi.csdn.net/attachment/201006/25/0_1277453882392Z.gif)		
+		
+		package factory.b 工厂方法模式实现
+>![](http://hi.csdn.net/attachment/201006/25/0_1277453970B04e.gif)		
+		
+> 简单工厂 VS 工厂方法
+![](http://hi.csdn.net/attachment/201006/25/0_1277454037K2X9.gif)
+![](http://hi.csdn.net/attachment/201006/25/0_1277454070W4hX.gif)		
+		
+		package factory.c 雷锋工厂
+		package factory.d
 
 第14章 观察者模式
 
